@@ -1,0 +1,26 @@
+1.Bar chart
+
+
+The bar chart give us information about five countries spending habits of shopping on consumer goods in 2012.
+In the first column we see console games.Here Belguim spend 147 thousand pounds and Spain spend 150,austria spend 145 but Britain spend more than other countries..Britain spends 155 thousand pounds.In the second column we see outdoor game accessories.Here Belguim spend 150 thousand pounds and Spain spend 154,austria spend 142,which was less than other countries.And Britain spend 155 thousand pounds.In the third column we see cosmetics.Here Belguim spend 147 thousand pounds and Spain spend 152,austria spend 145,which was less than other countries.But Britain spend 160 thousand pounds.Forth column is Books.In this column Belgium spend 145 and Spain spend 155.Austria and Britain spend 157 and 160.In toys part Belguim spend 145 but Spain and Austria spend same ammount.which was 155.but Britain spend height which was 167.Last column is camweas.Here Belguim spend 142 thousand pounds and Spain spend 155,austria spend 165.But Britain spend 170 thousand pounds.
+
+
+2.ans:
+Task-1
+
+1. B
+
+2. A
+
+3. E
+
+4. C
+
+5. D
+
+Task-2
+
+1.E
+2.A
+3.G
+4.D
